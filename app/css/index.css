@@ -23,6 +23,11 @@ button {
   max-width: 600px;
   min-width: 400px;
 }
+.card:hover {
+	border: 2px solid rgb(198, 24, 24);
+	margin: -1px;
+}
+
 .card-header {
 	display: flex;
 	align-items: center;
